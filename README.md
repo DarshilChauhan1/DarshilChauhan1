@@ -40,7 +40,6 @@
 
 <div align="center" >
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=DarshilChauhan1&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Darshil's GitHub Stats">
-  <img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=17993017&theme=dark" alt="Darshil's Stackoverflow Stats">
  </div>
  
 
